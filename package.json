@@ -1,0 +1,13 @@
+{
+  "name": "bot-red-white",
+  "version": "1.0.0",
+  "description": "Bot de WhatsApp multifunción con sistema VIP, créditos y comandos simulados",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "pino": "^8.19.0"
+  }
+}
